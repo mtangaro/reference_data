@@ -1,2 +1,2 @@
 # reference_data
-Script for reference data installation
+Scripts for reference data installation
